@@ -11,3 +11,6 @@ This is a Streamlit web app to help oil & gas companies calculate:
 🚀 To run:
 ```bash
 streamlit run app.py
+
+
+https://mineralcalculator-gandsarb9gdkztuv5dhpmc.streamlit.app/
